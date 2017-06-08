@@ -4,7 +4,6 @@
     "description": "PHP set of libraries for hashing",
     "keywords": ["library","hashing", "encrypt", "decrypt"],
     "homepage": "http://github.com/bmutinda/hashing",
-    "version": "1.0",
     "license": "MIT",
     "authors": [
         {
